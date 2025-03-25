@@ -67,7 +67,6 @@ To add your own images, place them in **`src/assets/`** under the correct subfol
 
 📌 **Background & Decorative Images**
 - `src/assets/fireworks.png` → Background for the closing page.
-- `src/assets/christmas.png` → Decoration for the closing page.
 
 If you add new images, **keep the correct format** so the app loads them properly! 🎉
 
