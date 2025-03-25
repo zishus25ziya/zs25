@@ -1,4 +1,4 @@
-# Relationship Website Mobile
+# Impress Your Love
 
 A **mobile-optimized web application** built with **React, Vite, and Tailwind CSS**, designed to enhance relationship interactions through a fun and personalized web experience.
 
@@ -7,8 +7,8 @@ A **mobile-optimized web application** built with **React, Vite, and Tailwind CS
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/aoudumber-bade/impress_your_love.git
-cd impress_your_love
+git clone https://github.com/Aoudumber-Bade/Impress_Your_Love.git
+cd Impress_Your_Love
 ```
 
 ### 2️⃣ Install Dependencies
